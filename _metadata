@@ -1,0 +1,10 @@
+{
+  "author" : "AsPerrUsual",
+  "description" : "Adds placeable foods and food themed furniture!",
+  "friendlyName" : "Foodie's Furniture",
+  "includes" : ["TabulaRasa","manyFrogs"],
+  "link" : "",
+  "name" : "Foodie's Furniture",
+  "tags" : "Furniture And Objects",
+  "version" : "1.0"
+}

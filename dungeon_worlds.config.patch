@@ -1,0 +1,20 @@
+[  
+  {
+    "op" : "add",
+    "path" : "/fastfoodspace",
+    "value" : {
+      "primaryDungeon" : "fastfoodspace",
+      "threatLevel" : 1,
+      "gravity" : 0,
+      "worldSize" : [1300, 500],
+      "dungeonBaseHeight" : 250,
+      "dungeonSurfaceHeight" : 250,
+      "ambientLightLevel" : [32, 32, 32],
+	  "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+      "musicTrack" : "/music/home-concept-loop.ogg",
+      "environmentStatusEffects" : ["biomeairless"],
+      "worldEdgeForceRegions" : "TopAndBottom",
+      "biome" : "space"
+    }
+  }
+]
