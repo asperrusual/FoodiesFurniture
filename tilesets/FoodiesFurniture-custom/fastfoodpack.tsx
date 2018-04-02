@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="fastfoodpack" tilewidth="48" tileheight="72" tilecount="12" columns="0">
+<tileset name="fastfoodpack" tilewidth="48" tileheight="72" tilecount="13" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <properties>
@@ -144,5 +144,17 @@
    <property name="tilesetDirection" value="right"/>
   </properties>
   <image width="16" height="16" source="../../../../tiled/CafePack-custom/objects/takeoutbag.png"/>
+ </tile>
+ <tile id="12">
+  <properties>
+   <property name="//description" value="Tray storage and a garbage bin in one station!"/>
+   <property name="//name" value="fastfoodbussingstation"/>
+   <property name="//shortdescription" value="Bussing Station"/>
+   <property name="imagePositionX" value="0"/>
+   <property name="imagePositionY" value="0"/>
+   <property name="object" value="fastfoodbussingstation"/>
+   <property name="tilesetDirection" value="right"/>
+  </properties>
+  <image width="24" height="24" source="../../../../tiled/CafePack-custom/objects/fastfoodbussingstation.png"/>
  </tile>
 </tileset>

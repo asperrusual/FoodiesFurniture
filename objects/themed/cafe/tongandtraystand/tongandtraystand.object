@@ -3,7 +3,7 @@
   "printable" : false,
   "colonyTags" : ["cafe","cooking"],
   "rarity" : "Common",
-  "description" : "A stable of buffet-type restaurants",
+  "description" : "A stable of buffet-type restaurants.",
   "shortdescription" : "Tong & Tray Stand",
   "race" : "generic",
   "category" : "decorative",

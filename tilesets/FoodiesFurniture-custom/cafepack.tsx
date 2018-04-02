@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="cafepack" tilewidth="48" tileheight="40" tilecount="16" columns="0">
+<tileset name="cafepack" tilewidth="48" tileheight="40" tilecount="17" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <properties>
@@ -192,5 +192,17 @@
    <property name="tilesetDirection" value="right"/>
   </properties>
   <image width="24" height="32" source="../../../../tiled/CafePack-custom/objects/coffeead.png"/>
+ </tile>
+ <tile id="52">
+  <properties>
+   <property name="//description" value="A stable of buffet-type restaurants."/>
+   <property name="//name" value="tongandtraystand"/>
+   <property name="//shortdescription" value="Tong &amp; Tray Stand"/>
+   <property name="imagePositionX" value="0"/>
+   <property name="imagePositionY" value="0"/>
+   <property name="object" value="tongandtraystand"/>
+   <property name="tilesetDirection" value="right"/>
+  </properties>
+  <image width="24" height="32" source="../../../../tiled/CafePack-custom/objects/tongandtraystand.png"/>
  </tile>
 </tileset>

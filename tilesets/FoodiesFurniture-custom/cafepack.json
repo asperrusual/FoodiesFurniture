@@ -8,7 +8,7 @@
  "margin":0,
  "name":"cafepack",
  "spacing":0,
- "tilecount":16,
+ "tilecount":17,
  "tileheight":40,
  "tileproperties":
     {
@@ -130,6 +130,16 @@
          "imagePositionX":"0",
          "imagePositionY":"0",
          "object":"coffeead",
+         "tilesetDirection":"right"
+        },
+     "52":
+        {
+         "\/\/description":"A stable of buffet-type restaurants.",
+         "\/\/name":"tongandtraystand",
+         "\/\/shortdescription":"Tong & Tray Stand",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"tongandtraystand",
          "tilesetDirection":"right"
         },
      "6":
@@ -295,6 +305,16 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "52":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "6":
         {
          "\/\/description":"string",
@@ -407,6 +427,12 @@
      "51":
         {
          "image":"..\/..\/..\/..\/tiled\/CafePack-custom\/objects\/coffeead.png",
+         "imageheight":32,
+         "imagewidth":24
+        },
+     "52":
+        {
+         "image":"..\/..\/..\/..\/tiled\/CafePack-custom\/objects\/tongandtraystand.png",
          "imageheight":32,
          "imagewidth":24
         },

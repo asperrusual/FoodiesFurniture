@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
-  "description" : "A variety of containers used for shipping produce,",
+  "description" : "A variety of containers used for shipping produce.",
   "shortdescription" : "Market Storage",
   "race" : "generic",
   "category" : "storage",
