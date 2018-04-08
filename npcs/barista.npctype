@@ -46,6 +46,7 @@
         "avian" : [ "barista" ],
         "apex" : [ "barista" ],
         "floran" : [ "barista" ],
+        "glitch" : [ "barista" ],
         "felin" : [ "barista" ],
         "human" : [ "barista" ],
         "hylotl" : [ "barista" ],
@@ -67,7 +68,7 @@
 	    "start" : {
 		  "default" : {
             "default" : [
-              "We've got a special on coffee today... And everyday too, for that matter!",
+              "We've got a special on coffee today... And every other day too, for that matter!",
               "Okay! Will that be a short, a tall, a grande, a venti, or a... shoot. Lost track again...",
               "Now, what can I get for you today?"
             ]
@@ -77,6 +78,13 @@
               "Floran's coffee is extra good today!",
               "Floran's coffee comes in five sssizes! ... Though Floran forgets what.",
               "What can Floran make you?"
+            ]
+          },
+		  "glitch" : {
+            "default" : [
+              "Cheery. We've got a special on coffee today... And everyday too, for that matter!",
+              "Nervous. Will that be a short, a tall, a grande, a venti, or a... Frustrated. Oh no, I've lost track again...",
+              "Cordial. Right then, what can I brew for you today?"
             ]
           },
 		  "felin" : {
@@ -110,6 +118,13 @@
               "Line is thisss way. No stabbing, promise!"
             ]
           },
+		  "glitch" : {
+            "default" : [
+              "Hospitable. Please do come in!",
+              "Assured. Ours is a quality brew, I assure you.",
+              "Welcoming. Oh! A patron!"
+            ]
+          },
 		  "felin" : {
             "default" : [
 "Welcome to Four Felins' Coffee Corner! our coffees won't taste like cat poop, honest!",
@@ -136,6 +151,11 @@
 		  "floran" : {
             "default" : [
               "Tell your friends about Floran's coffee!"
+            ]
+          },
+		  "glitch" : {
+            "default" : [
+              "Desperate. Don't forget to review us online!"
             ]
           },
 		  "felin" : {
